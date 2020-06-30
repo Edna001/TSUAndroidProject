@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_title">Discover</string>
+    <string name="news_description">Get the latest news</string>
+    <string name="news_latest">Latest Updates</string>
+    <string name="news_technology">Technology</string>
+    <string name="news_business">Business</string>
+    <string name="news_entertainment">Entertainment</string>
+    <string name="news_general">General</string>
+    <string name="news_health">Health</string>
+    <string name="news_science">Science</string>
+    <string name="news_sports">Sports</string>
+    <string name="close">Close</string>
+    <string name="error_internet_connection">Please check internet connection</string>
+    <string name="coming_soon">Coming Soon</string>
+</resources>
